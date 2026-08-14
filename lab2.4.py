@@ -1,0 +1,10 @@
+a=5
+print(type(a))
+b=2.3
+print(type(b))
+c="don"
+print(type(c))
+d=True
+print(type(d))
+e=1+6j
+print(type(e))
